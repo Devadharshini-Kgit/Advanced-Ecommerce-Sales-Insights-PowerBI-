@@ -36,7 +36,4 @@ Top Locations: Mumbai and Delhi emerged as the highest revenue-generating region
 Discount Impact: Identified a direct correlation between discount availability and purchase volume among younger demographics.
 
 
-
-Dataset: The raw transactional data is provided in .csv format for reference.
-
-Visuals: Preview the dashboard through the screenshots and screen recording included in the repository.
+Visuals: Preview the dashboard through the screenshots included in the repository.
